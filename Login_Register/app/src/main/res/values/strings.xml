@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login_Register</string>
+    <string-array name="listproduct">
+        <item>Ngô Ngọc Biên Cương: 0987654321</item>
+        <item>Nguyễn Văn Ba: 012382323</item>
+        <item>Nguyễn Văn Xê: 012382844</item>
+        <item>Trần Đức Bê: 093747343</item>
+        <item>Lê Văn Chân: 032938283</item>
+    </string-array>
+</resources>
